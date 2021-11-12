@@ -1,15 +1,15 @@
-<a target="_black"><img src="https://img.shields.io/badge/My Blog-311C87?style=flat-square&logo=Buefy&logoColor=white"/></a>
+<a target="https://kdc7140.github.io"><img src="https://img.shields.io/badge/My Blog-311C87?style=flat-square&logo=Buefy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ghk5402@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-FF61F6?style=flat-square&logo=Instagram&logoColor=white"/>
 
 
-Hi there! I`m Front-End developer using JavaScript 👋
+Hi there! I`m Front-End developer using JavaScript 👋<br/>
 I developed a script-based hybrid app and am currently studying Kotlin.
 
 <br/>
 
 
-I like to play soccer⚽, I'm not good at it, but I like to play bowling🎳
+I like to play soccer⚽, I'm not good at it, but I like to play bowling🎳<br/>
 I want to become a developer who works enjoy in future😄
 
 <br/><br/>
