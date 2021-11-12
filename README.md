@@ -1,19 +1,20 @@
-Hi there! I`m Front-End developer using JavaScript 👋
+<a target="_black"><img src="https://img.shields.io/badge/My Blog-311C87?style=flat-square&logo=Buefy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ghk5402@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FF61F6?style=flat-square&logo=Instagram&logoColor=white"/>
 
+
+Hi there! I`m Front-End developer using JavaScript 👋
 I developed a script-based hybrid app and am currently studying Kotlin.
 
 <br/>
 
 
 I like to play soccer⚽, I'm not good at it, but I like to play bowling🎳
-
 I want to become a developer who works enjoy in future😄
 
 <br/><br/>
 
 ### ✔️Skills
-
-<br/>
 
 <a target="_black"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -26,8 +27,6 @@ I want to become a developer who works enjoy in future😄
 
 ### ✔️Tools
 
-<br/>
-
 <a target="_black"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -38,7 +37,7 @@ I want to become a developer who works enjoy in future😄
 <br/><br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdc7140&show_icons=true&theme=buefy )
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdc7140&show_icons=true&theme=buefy ) -->
 
 <!--
 **kdc7140/kdc7140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
