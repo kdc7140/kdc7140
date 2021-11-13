@@ -12,7 +12,7 @@ I developed a script-based hybrid app and am currently studying Kotlin.
 I like to play soccer⚽, I'm not good at it, but I like to play bowling🎳<br/>
 I want to become a developer who works enjoy in future😄
 
-<br/><br/>
+<br/>
 
 ### ✔️Skills
 
@@ -21,19 +21,15 @@ I want to become a developer who works enjoy in future😄
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 
-<br/>
 
 
 ### ✔️Tools
 
-<a target="_black"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-
-
-<br/><br/>
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdc7140&show_icons=true&theme=buefy ) -->
