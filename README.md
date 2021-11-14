@@ -1,4 +1,4 @@
-<a href="https://kdc7140.github.io" target="_blank"><img src="https://img.shields.io/badge/My Blog-311C87?style=flat-square&logo=Buefy&logoColor=white"/></a>
+<a href="https://kdc7140.github.io" target="_blank"><img src="https://img.shields.io/badge/My Blog-311C87?style=flat-square&logo=Metro&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ghk5402@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-FF61F6?style=flat-square&logo=Instagram&logoColor=white"/>
 
